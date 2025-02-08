@@ -1,6 +1,6 @@
 <html>
    <head>
-      <title>USCMS Anonymous Message Box</title>
+      <title>Anonymous Message Box</title>
       <style>
 body
 {
